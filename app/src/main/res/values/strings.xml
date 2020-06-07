@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Project Tour</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //Paces Name
+    <string name="place_1">Amritsar</string>
+    <string name="place_2">Chandigarh</string>
+    <string name="place_3">Haridwar</string>
+    <string name="place_4">Goa</string>
+
+
+    //Amritsar Places Name
+    <string name="amritsar_place_1">Wagha Border</string>
+    <string name="amritsar_place_2">Jallianwala Bagh</string>
+    <string name="amritsar_place_3">Durgiana Mandir</string>
+    <string name="amritsar_place_4">Golden Temple</string>
+
+    //Amritsar Place Details
+    <string name="amritsar_detail_1">Wagha is a village and union council located in the Wahgah Zone of Lahore, Punjab, Pakistan. The town is famous for the Wagah border ceremony and also serves as a goods transit terminal and a railway station between Pakistan and India.</string>
+    <string name="amritsar_detail_2">The Jallianwala Bagh massacre, also known as the Amritsar massacre, took place on 13 April 1919, when Acting Brigadier-General Reginald Dyer ordered troops of the British Indian Army to fire their rifles into a crowd of unarmed Indian civilians in Jallianwala Bagh, Amritsar, Punjab, killing at least 379 people and injuring over 1,000 other people.</string>
+    <string name="amritsar_detail_3">The Durgiana Temple also known as Lakshmi Narayan Temple, Durga Tirath and Sitla Mandir, is a premier temple situated in the city of Amritsar, Punjab, India. Though a Hindu temple, its architecture is similar to the Golden Temple. This temple derives its name from the Goddess Durga, the chief Goddess deified and worshipped here. Idols of Goddess Laksmi (goddess of wealth) and Vishnu (the protector of the world) are also deified here and worshipped.</string>
+    <string name="amritsar_detail_4">The Darbār Sahib (Golden Temple), meaning "exalted court" or Harmandir Sahib, meaning "abode of God", also known as Golden Temple, is a Gurdwara located in the city of Amritsar, Punjab, India. It is the preeminent spiritual site of Sikhism.</string>
+
+    //Chandigarh Places Name
+    <string name="chandigarh_place_1">Elante Mall</string>
+    <string name="chandigarh_place_2">Rock Garden of Chandigarh</string>
+    <string name="chandigarh_place_3">Sukhna Lake</string>
+    <string name="chandigarh_place_4">Citco</string>
+
+    //Chandigarh Places Details
+    <string name="chandigarh_detail_1">Elante Mall is a shopping mall in the city of Chandigarh in India. With the gross leasable area of 1,150,000 sq ft, it is the second largest shopping mall in Northern India and the seventh largest in India. Elante is spread over an area of 20 acres.</string>
+    <string name="chandigarh_detail_2">The Rock Garden of Chandigarh is a sculpture garden in Chandigarh, India. It is also known as Nek Chand\'s Rock Garden after its founder Nek Chand Saini, a government official who started the garden secretly in his spare time in 1957. Today it is spread over an area of 40 acres.</string>
+    <string name="chandigarh_detail_3">Sukhna Lake in Chandigarh, India, is a reservoir at the foothills of the Himalayas. This 3 km² rainfed lake was created in 1958 by damming the Sukhna Choe, a seasonal stream coming down from the Shivalik Hills. Originally the seasonal flow entered the lake directly causing heavy siltation.</string>
+    <string name="chandigarh_detail_4">The Geri route is a set of streets in northern Chandigarh where youth, mostly students, regularly drive cars and motorbikes. The word geri means "rounds", and thus the name derives from the "rounds" that people make through the route.</string>
+
+    //Haridwar Places Name
+    <string name="haridwar_place_1">Har Ki Pauri Ghat</string>
+    <string name="haridwar_place_2">Rajaji National Park</string>
+    <string name="haridwar_place_3">Shri Mata Mansa Devi Mandir</string>
+    <string name="haridwar_place_4">Maa Chandi Devi Temple</string>
+
+
+    //Haridwar Places Details
+    <string name="haridwar_detail_1">Starting from the north of Nariman Point and ending at the famous Chowpatty beach, the Marine Drive is a 3km long arc shaped road along the sea coast of South Mumbai. The coast lines the Arabian sea and is the best place to watch the sunset in Mumbai.</string>
+    <string name="haridwar_detail_2">Rajaji National Park is an Indian national park and tiger reserve that encompasses the Shivaliks, near the foothills of the Himalayas. The park is spread over 820 km²., and three districts of Uttarakhand: Haridwar, Dehradun and Pauri Garhwal.</string>
+    <string name="haridwar_detail_3">Mansa Devi Temple, Haridwar is a Hindu temple dedicated to goddess Mansa Devi in the holy city of Haridwar in the Uttarakhand state of India. The temple is located atop the Bilwa Parvat on the Sivalik Hills, the southernmost mountain chain of the Himalayas.</string>
+    <string name="haridwar_detail_4">Chandi Devi Temple, Haridwar is a Hindu temple dedicated to Goddess Chandi Devi in the holy city of Haridwar in the Uttarakhand state of India. The temple is situated atop the Neel Parvat on the Eastern summit of the Sivalik Hills, the southernmost mountain chain of the Himalayas</string>
+
+    //Goa Places Name
+    <string name="goa_place_1">Baga Beach</string>
+    <string name="goa_place_2">Panaji</string>
+
+    //Goa Places Details
+    <string name="goa_detail_1">Baga a seaside town in Bardez, Goa, India. It comes under the jurisdiction of Calangute, which is 2 km south. Baga is known for its popular beach and Baga Creek. It is visited by thousands of tourists annually.</string>
+    <string name="goa_detail_2">Panaji, also known as Panjim, is the state capital of Goa, in southwest India. Located on the banks of the Mandovi River, the city has cobblestone streets lined with colorful villas an buildings from the Portuguese colonial era. Palm-fringed Miramar Beach sits at the confluence of the river and the Arabian Sea. Set on a hill overlooking the city is the baroque Our Lady of Immaculate Conception Church, built in 1619.</string>
+</resources>
