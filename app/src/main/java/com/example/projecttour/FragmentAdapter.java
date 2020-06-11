@@ -24,10 +24,8 @@ public class FragmentAdapter extends FragmentPagerAdapter {
                 return new ChandigarhFragment();
             case 3:
                 return new HaridwarFragment();
-            case 4:
-                return new GoaFragment();
             default:
-                return null;
+                return new GoaFragment();
         }
     }
 
